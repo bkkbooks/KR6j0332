@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0332/v1
+canonical_location: https://kanripo.org/bkk/KR6j0332/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 七俱胝准提陀羅尼念誦儀軌
+  identifiers:
+    alt_id:
+    - X02n0191
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0191.xml
+    old_id: X02n0191
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0332_000.yaml, hash: 'sha256:8658105739c056199b6f1c27347eb4db2e3243ddce33b297b8a8afe8d9fa7119'}
+  - {seq: 1, filename: KR6j0332_001.yaml, hash: 'sha256:7abe1eaf73f9cd866a091be06dd0528512c704cb1e1c67f293c3cd5e264ade99'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0332_001.markers.yaml, hash: 'sha256:8258bd90202a6d29db7d2a867e6f4b768e9aaeb8022d223ace65d5c4ca04f5ab'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0332_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5492
+  label: 七俱胝准提陀羅尼念誦儀軌
+  type: juan
+  level: 1
+hash: sha256:158074f206dad74f8722d35ace10ff9bdeae5cf6f1d5bb7c80138336c5dfbc22
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

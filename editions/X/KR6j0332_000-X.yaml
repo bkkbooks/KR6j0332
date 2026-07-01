@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0332/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 七俱胝准提陀羅尼念誦儀軌
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0191.xml
+    old_id: X02n0191
+hash: sha256:8658105739c056199b6f1c27347eb4db2e3243ddce33b297b8a8afe8d9fa7119
