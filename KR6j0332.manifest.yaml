@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0332_000.yaml, hash: 'sha256:8658105739c056199b6f1c27347eb4db2e3243ddce33b297b8a8afe8d9fa7119'}
-  - {seq: 1, filename: KR6j0332_001.yaml, hash: 'sha256:7abe1eaf73f9cd866a091be06dd0528512c704cb1e1c67f293c3cd5e264ade99'}
+  - {seq: 1, filename: KR6j0332_001.yaml, hash: 'sha256:46a8b7fb165cbdf30d7c5839ef2e690d53b8edcf3468f657fc2d7469ee260cb4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0332_001.markers.yaml, hash: 'sha256:8258bd90202a6d29db7d2a867e6f4b768e9aaeb8022d223ace65d5c4ca04f5ab'}
+  - {seq: 0, role: markers, filename: assets/KR6j0332_000.markers.yaml, hash: 'sha256:1072b73d7164d58eea8fc5b4561cbe464bcf5df4fea785bb3d84ed61d3ecc9d5'}
+  - {seq: 1, role: markers, filename: assets/KR6j0332_001.markers.yaml, hash: 'sha256:075c0a2aaabbf5c3479c4e239a4cfad663fd8f776de8e6433a8a4ef373b55be3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 七俱胝准提陀羅尼念誦儀軌
   type: juan
   level: 1
-hash: sha256:158074f206dad74f8722d35ace10ff9bdeae5cf6f1d5bb7c80138336c5dfbc22
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1ad411283e30b28045fe5287c2395be4fa1ff0027c810faa16316c8d1cc1823a
