@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0332/v1
 canonical_location: https://kanripo.org/bkk/KR6j0332/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 七俱胝准提陀羅尼念誦儀軌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0332_000.yaml, hash: 'sha256:8658105739c056199b6f1c27347eb4db2e3243ddce33b297b8a8afe8d9fa7119'}
-  - {seq: 1, filename: KR6j0332_001.yaml, hash: 'sha256:46a8b7fb165cbdf30d7c5839ef2e690d53b8edcf3468f657fc2d7469ee260cb4'}
+  - {seq: 1, filename: KR6j0332_001.yaml, hash: 'sha256:f6a565d98d2d8be97270cc7e876526607f3b0cc02fb23378257719112cf88389'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0332_000.markers.yaml, hash: 'sha256:1072b73d7164d58eea8fc5b4561cbe464bcf5df4fea785bb3d84ed61d3ecc9d5'}
-  - {seq: 1, role: markers, filename: assets/KR6j0332_001.markers.yaml, hash: 'sha256:075c0a2aaabbf5c3479c4e239a4cfad663fd8f776de8e6433a8a4ef373b55be3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0332_001.markers.yaml, hash: 'sha256:e888bb897465e8fd826532ffc64e3397daa0f49be1802e96ae0181f8703e2ed9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 七俱胝准提陀羅尼念誦儀軌
   type: juan
   level: 1
-hash: sha256:1ad411283e30b28045fe5287c2395be4fa1ff0027c810faa16316c8d1cc1823a
+hash: sha256:3bc176ff35b37095f1c8f8c86d2559eb88a575b013d66f573b3ba1c116742901
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
